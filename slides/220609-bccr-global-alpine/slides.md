@@ -10,7 +10,8 @@
 
 **Julien Seguinot & Suzette Flantua**, 9 June 2022
 
-https://mountainsinmotion.w.uib.no
+Trond Mohn Foundation <br>
+BIO, UiB & BCCR
 
 ---
 
@@ -23,3 +24,7 @@ https://mountainsinmotion.w.uib.no
 ### Biome connectivity
 
 <img src="../../figures/cartoon-biome-connectivity.svg" width="540px"/>
+
+---
+
+https://mountainsinmotion.w.uib.no
